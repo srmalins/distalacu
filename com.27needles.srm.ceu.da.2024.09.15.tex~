@@ -1,0 +1,14 @@
+% Creating a simple Title Page in Beamer
+\documentclass{beamer}
+% Theme choice:
+\usetheme{Berkeley}
+% Title page details: 
+\title{Distal Acupuncture: Theory and Practice}
+\author{Steven Malins, DOM}
+\date{16 September, 2024}
+\begin{document}
+% Title page frame
+\begin{frame}
+    \titlepage
+\end{frame}
+\end{document}
